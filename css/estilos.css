@@ -1,0 +1,23 @@
+/* Mi hoja de estilos */
+
+/*AAFF00*/
+tr {
+	border:  1px solid #AF0; 
+}
+
+header h1 {
+	color: rgb(100, 0, 50);
+}
+
+code, p {
+	background-color: black;
+	color:  white;
+}
+
+.centrar {
+	text-align: center;
+}
+
+#contenido .remarcar, tr {
+	background: red;
+}
